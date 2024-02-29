@@ -4,7 +4,12 @@ import matplotlib.pyplot as plt
 from PIL import Image
 import matplotlib.colors as mcolors
 
-heatmap_image_path = "000001.png" # Load the image into a variable
+heatmap_directory = "heatMap_Images"
+
+heatmap_filename = "000001.png"
+
+
+heatmap_image_path = os.path.join(heatmap_directory, heatmap_filename)
 heatmap_image = Image.open(heatmap_image_path) # Load the variable into a variable of an image type
 
 heatmap_array = np.array(heatmap_image) # The loaded heat map image is turned 
@@ -47,3 +52,7 @@ plt.title("Heat Map Plot")
 #plt.xlabel('X Axis Label') 
 #plt.ylabel('Y Axis Label')  
 plt.show()
+
+
+# A scatter plot can be created to gain more insight into the RGB color 
+# distribution. 
