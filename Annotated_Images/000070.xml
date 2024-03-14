@@ -1,7 +1,7 @@
 <annotation>
 	<folder>heatMap_Images</folder>
-	<filename>000022.png</filename>
-	<path>/Users/vinay/Documents/UTS Subjects/Honours Project /CARLA_Data_Analysis-main/heatMap_Images/000022.png</path>
+	<filename>000070.png</filename>
+	<path>/Users/vinay/Documents/UTS Subjects/Honours Project /CARLA_Data_Analysis-main/heatMap_Images/000070.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>344</xmin>
-			<ymin>249</ymin>
-			<xmax>577</xmax>
-			<ymax>420</ymax>
+			<xmin>390</xmin>
+			<ymin>248</ymin>
+			<xmax>585</xmax>
+			<ymax>387</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>166</xmin>
-			<ymin>224</ymin>
-			<xmax>307</xmax>
-			<ymax>300</ymax>
+			<xmin>172</xmin>
+			<ymin>225</ymin>
+			<xmax>313</xmax>
+			<ymax>304</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,34 +41,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>547</xmin>
-			<ymin>229</ymin>
-			<xmax>617</xmax>
-			<ymax>274</ymax>
+			<xmin>570</xmin>
+			<ymin>233</ymin>
+			<xmax>654</xmax>
+			<ymax>283</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Lane Marking</name>
+		<name>Lane Marker</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>695</xmin>
-			<ymin>418</ymin>
-			<xmax>746</xmax>
+			<xmin>259</xmin>
+			<ymin>377</ymin>
+			<xmax>348</xmax>
 			<ymax>448</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Lane Marking</name>
+		<name>Lane Marker</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>143</xmin>
-			<ymin>307</ymin>
-			<xmax>212</xmax>
-			<ymax>340</ymax>
+			<xmin>634</xmin>
+			<ymin>361</ymin>
+			<xmax>711</xmax>
+			<ymax>426</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,22 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>353</xmin>
-			<ymin>99</ymin>
-			<xmax>388</xmax>
-			<ymax>231</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Light Pole</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>105</xmin>
-			<ymin>1</ymin>
-			<xmax>129</xmax>
-			<ymax>240</ymax>
+			<xmin>354</xmin>
+			<ymin>90</ymin>
+			<xmax>392</xmax>
+			<ymax>233</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +89,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>667</xmin>
-			<ymin>175</ymin>
-			<xmax>1022</xmax>
-			<ymax>280</ymax>
+			<xmin>5</xmin>
+			<ymin>234</ymin>
+			<xmax>167</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Barrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>664</xmin>
+			<ymin>211</ymin>
+			<xmax>1017</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Light Pole</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>1</ymin>
+			<xmax>25</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Barrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>228</ymin>
+			<xmax>567</xmax>
+			<ymax>237</ymax>
 		</bndbox>
 	</object>
 </annotation>
