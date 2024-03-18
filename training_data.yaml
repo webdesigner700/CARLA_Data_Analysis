@@ -1,0 +1,12 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: ../CARLA_DATA_ANALYSIS-MAIN/ # dataset root dir
+train: dataset/Training_Images/  # train images (relative to 'path') 128 images
+val: dataset/Validation_Images/ #Similar to the training images directory, this directory should contain images reserved for validation during the training process. Again, these images should be in a common image format. The path to this directory should be specified in the val parameter of your training_data.yaml file.
+test:  # test images (optional)
+
+# Classes (80 COCO classes)
+names:
+  0: Car
+  1: Lane Marker
+  2: Light Pole
+  3: Barrier
