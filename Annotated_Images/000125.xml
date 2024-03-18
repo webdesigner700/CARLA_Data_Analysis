@@ -1,7 +1,7 @@
 <annotation>
 	<folder>heatMap_Images</folder>
 	<filename>000125.png</filename>
-	<path>/Users/vinay/Documents/UTS Subjects/Honours Project /CARLA_Data_Analysis-main/heatMap_Images/000125.png</path>
+	<path>/Users/vinay/Documents/UTS Subjects/Honours Project /CarLA_Data_Analysis-main/heatMap_Images/000125.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>car</name>
+		<name>Car</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>Car</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>Car</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>lane marker</name>
+		<name>Lane Marker</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -60,7 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>lane marker</name>
+		<name>Lane Marker</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -72,7 +72,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>lane marker</name>
+		<name>Lane Marker</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -84,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>lane marker</name>
+		<name>Lane Marker</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,7 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>light pole</name>
+		<name>Light Pole</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -108,7 +108,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>barrier</name>
+		<name>Barrier</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -120,7 +120,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>lane marker</name>
+		<name>Lane Marker</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -132,7 +132,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>barrier</name>
+		<name>Barrier</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
