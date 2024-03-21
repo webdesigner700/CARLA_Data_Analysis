@@ -36,7 +36,7 @@ def xml_to_yolo(xml_file, class_dict):
 class_dict = {"Car": 0, "Lane Marker": 1, "Light Pole": 2, "Barrier": 3}  # Update with your actual class labels
 
 # Directory containing XML annotations
-xml_dir = "Annotated_Images"
+xml_dir = "Annotated_Images_Validation_Data"
 
 # Directory to save YOLO format labels
 yolo_labels_dir = "YOLO_format_images"
